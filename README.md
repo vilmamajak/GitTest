@@ -1,3 +1,3 @@
 # GitTest
 
-My namne is Vilma.
+My name is Vilma.
